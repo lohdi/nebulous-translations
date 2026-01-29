@@ -54,7 +54,7 @@
     <string name="Hidden">"مخفي"</string>
 
 
-    <string name="SERVER">"سيرفر"</string>
+    <string name="SERVER">"خادم"</string>
     <string name="Joining_game_in_">"الانضمام للعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
@@ -321,7 +321,7 @@
     <string name="Color_Blind">"عمى الألوان"</string>
     <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
     <string name="COPY_ID">"نسخ رقم الهوية"</string>
-    <string name="My_Account_ID">"نسخ رقم هوية حسابي"</string>
+    <string name="Copy_My_Account_ID">"نسخ رقم هوية حسابي"</string>
 
 
     <string name="COMPLETE">"تم الإنجاز"</string>
@@ -826,7 +826,7 @@
     <string name="Seconds">من الثواني</string>
     <string name="Tournaments_Temporarily_Disabled">البطولات متوقفة مؤقتاً</string>
     <string name="CLAN_NAME_COLOR">لون إسم العشيرة</string>
-    <string name="Tuber">اليوتيوبرز</string>
+    <string name="YouTubers">اليوتيوبرز</string>
     <string name="youtube_prompt">هل تريد زيارة هذه القناة الخاصة باللعبة؟ هذه القناة ليست تابعة لمصممي اللعبة</string>
     <string name="Tournament_Matches_Won_">مباريات البطولات المربوحة:</string>
     <string name="PAINT">الرسم</string>
@@ -928,7 +928,7 @@
     <string name="Choose_Menu">"اختر القائمة"</string>
     <string name="SPECTATE">مشاهدة</string>
     <string name="INVITE">دعوة</string>
-    <string name="error_1">القائد ومساعديه هم الوحيدون الذي يُسمح لهم بأرسال رساله للعشيرة !.</string>
+    <string name="error_1">خطأ_1!.</string>
     <string name="Hat">القبعة</string>
     <string name="Hats">القبعات</string>
     <string name="Pet_Uploads">تحميلات الحيوانات</string>
@@ -986,7 +986,7 @@
     <string name="Mission_d_Complete">المهمة %d إكتملت!</string>
     <string name="Mission_d_Failed">المهمة %d فشلت!</string>
     <string name="Next_Mission">المهمة التالية</string>
-    <string name="Objective">الهدف</string>
+    <string name="Objective">موضوعي</string>
     <string name="GAME">لعبة</string>
     <string name="Saved_">تم الحفظ!</string>
     <string name="Name_Opacity_">شفافية الإسم:</string>
